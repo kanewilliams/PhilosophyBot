@@ -8,4 +8,4 @@ Objectives
 
 **Preview**:
 
-![philosophybot-preview](./visualisations/philosophybot-preview.png)
+![philosophybot-preview](./Visualisations/philosophybot-preview.png)
